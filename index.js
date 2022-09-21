@@ -13,7 +13,7 @@ export default class Index extends React.Component {
         return (
             <div className={styles.app}>
                 <header className={styles.header}>
-                    <Link href= "/page3">
+                    <Link href= "/page2">
                         <img src="/logo.png"
                             className={styles.logo} alt="logo"
                         />
